@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    font-weight: bold;
+    padding-left: 24px;
+    height: 32px;
+  
+}
+.container-fluid ul li a{
+    padding-left: 16px;
+    text-decoration: none;
+}
+/* .nav{}
+    /* text-decoration: none; */
+    /* padding-right: 24px; */
+header{
+    height: 64px;
+}/* nav bar end */
+.bannerimg{
+    width: 60vw;
+    padding: 32px 24px;
+}
+.bcard .col .card h5{
+    padding-top: 16px;
+
+}
+.bcard .col .card .course{
+    padding-top: 8px;
+    padding-bottom: 8px;
+
+}
+.bcard .col .card p{
+    padding-bottom: 24px;
+
+}
+footer{
+    display: flexbox;
+}
